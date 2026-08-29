@@ -3,7 +3,7 @@
 Main
 ![the icon](georangefox_alt.svg)
 Alt
-- These are original geometric fox terminal icons, drawn from scratch. They are inspired from Kit, Firefox's mascot.
+- These are original geometric fox terminal icons, drawn using Inkscape, from scratch. They are inspired from Kit, Firefox's mascot.
 - The main one can also work as an app launcher icon.
 - These are unofficial fan-made artworks. It is not affiliated with, sponsored by, or endorsed by Mozilla.
 
