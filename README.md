@@ -5,7 +5,7 @@ Main
 Alt
 - These are original geometric fox terminal icons, drawn from scratch. They are inspired from Kit, Firefox's mascot.
 - The main one can also work as an app launcher icon.
-- This is an unofficial fan-made artwork. It is not affiliated with, sponsored by, or endorsed by Mozilla.
+- These are unofficial fan-made artworks. It is not affiliated with, sponsored by, or endorsed by Mozilla.
 
 # License
 
