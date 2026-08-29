@@ -1,7 +1,8 @@
 # Geometric Orange Fox Terminal Icon
-
-This is an original geometric fox terminal icon, drawn from scratch. It is inspired by Kit, Firefox's mascot.
-This is an unofficial fan-made artwork. It is not affiliated with, sponsored by, or endorsed by Mozilla.
+![the icon](georangefox.svg)
+- This is an original geometric fox terminal icon, drawn from scratch. It is inspired by Kit, Firefox's mascot.
+- This can also work as an app launcher icon.
+- This is an unofficial fan-made artwork. It is not affiliated with, sponsored by, or endorsed by Mozilla.
 
 # License
 
